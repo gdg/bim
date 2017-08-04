@@ -1,0 +1,18 @@
+{
+  "name": "bim.js",
+  "description": "",
+  "main": "bim.js",
+  "authors": [
+    "GDG™, GDG™lab.studio™ <lab@gdg.io>",
+    "Tarek Hariri <geodesgrp@icloud.com>"
+  ],
+  "license": "MIT",
+  "homepage": "lab.gdg.io/bim",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

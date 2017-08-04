@@ -1,0 +1,19 @@
+{
+  "name": "bim.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdg/bim.js.git"
+  },
+  "author": "Tarek Hariri <geodesgrp@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdg/bim.js/issues"
+  },
+  "homepage": "https://github.com/gdg/bim.js#readme"
+}
